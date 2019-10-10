@@ -34,7 +34,7 @@ see [here](<https://github.com/alexandrainst/danlp/blob/master/docs/models/embed
 The code for training can be found on Flairs GitHub, and the following parameters are set:
 `learning_rate=1`, `mini_batch_size=32`, `max_epochs=150`, `hidden_size=256`.
 
-The accuracy reported is from from the test set provided by DDT on a single run.
+The accuracy reported is from the test set provided by DDT on a single run.
 Notice, Flair report in Akbij et. al 2018 an accuracy on 97.84 ± 0.01 for the English POS tagger,
 which the Danish result is rather close to.
 
